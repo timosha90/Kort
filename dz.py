@@ -6,4 +6,4 @@ A = ('Текст - российский, криминально-драматич
 B = A.replace(',', '')
 print(B)
 C = B.replace('-', '')
-print(A.split())
+print(C.split())
